@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# Portfolio with framer motion and tailwind
